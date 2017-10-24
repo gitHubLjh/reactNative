@@ -1,0 +1,6 @@
+// buck：android项目构建框架，采用增量构建的方式，比gradle速度更高，只支持mac、linux
+[android]
+  target = Google Inc.:Google APIs:23
+
+[maven_repositories]
+  central = https://repo1.maven.org/maven2
